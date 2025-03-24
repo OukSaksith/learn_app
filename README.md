@@ -1,16 +1,13 @@
 # learn_app
 
-A new Flutter project.
+A new Learn flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+``git checkout main``
 
-A few resources to get you started if this is your first Flutter project:
+- for Platform detector
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+``git checkout features/base-design``
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- for Base Design
